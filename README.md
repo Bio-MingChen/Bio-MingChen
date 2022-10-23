@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bio-MingChen
-- 👀 I’m interested in bioinformatics and web technologies
+- 👀 I’m interested in bioinformatics, python and web technologies
 - 🌱 I’m currently learning algorithms in single cell analysis
 - 📫 If you have any topic want to share with me, welcome to send me an email cm.bio@qq.com
 
